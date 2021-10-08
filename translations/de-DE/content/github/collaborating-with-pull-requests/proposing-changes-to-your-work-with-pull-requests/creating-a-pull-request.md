@@ -40,7 +40,7 @@ Wenn Du Informationen im Branch-Bereich änderst, werden die Vorschauen für „
 
 {% tip %}
 
-**Tips**:
+**Tipps**:
 
 - Über die Vergleichsansicht kannst Du Vergleiche über einen bestimmten Zeitraum einrichten. Weitere Informationen findest Du unter „[Commits vergleichen](/github/committing-changes-to-your-project/comparing-commits)."
 - Projektbetreuer können eine Pull-Request-Vorlage für ein Repository hinzufügen. Vorlagen umfassen Aufforderungen für Informationen im Text eines Pull Requests. Weitere Informationen findest Du unter „[Informationen zu Vorlagen für Issues und Pull Requests](/articles/about-issue-and-pull-request-templates)“
