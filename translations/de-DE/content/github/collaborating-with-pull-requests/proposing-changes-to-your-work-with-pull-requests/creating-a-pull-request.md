@@ -26,7 +26,7 @@ Du kannst festlegen, in welchen Branch Du Deine Änderungen zusammenführen möc
 
 ## Branch-Bereich und Ziel-Repository ändern
 
-By default, pull requests are based on the parent repository's default branch. Weitere Informationen finden Sie unter „[Informationen zu Branches](/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch)“.
+By default, pull requests are based on the parent repository's default branch. Weitere Informationen findest Du unter „[Informationen zu Branches](/github/collaborating-with-issues-and-pull-requests/about-branches#about-the-default-branch)“.
 
 Wenn das standardmäßige übergeordnete Repository nicht korrekt ist, kannst Du über die Dropdownlisten sowohl das übergeordnete Repository als auch den Branch ändern. Du kannst über die Dropdownlisten auch Head- und Basis-Branches untereinander austauschen, um Diffs zwischen Referenzpunkten zu erstellen. Referenzen müssen hier Branch-Namen in Deinem GitHub-Repository sein.
 
@@ -71,7 +71,7 @@ Wenn Du Informationen im Branch-Bereich änderst, werden die Vorschauen für „
 
 {% data reusables.repositories.asking-for-review %}
 
-Nachdem Ihr Pull Request geprüft wurde, können Sie ihn [in das Repository mergen](/articles/merging-a-pull-request).
+Nachdem Dein Pull Request geprüft wurde, kannst Du ihn [in das Repository mergen](/articles/merging-a-pull-request).
 
 {% endwebui %}
 
